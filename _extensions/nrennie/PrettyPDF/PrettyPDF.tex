@@ -3,63 +3,59 @@
 \usepackage{xcolor}
 % \usepackage{eso-pic}
 \usepackage{fancyhdr}
-% \usepackage{sectsty}
+\usepackage{sectsty}
 \usepackage{fontspec}
-% \usepackage{titlesec}
-\usepackage{lipsum}
+\usepackage[compact]{titlesec}
+% \usepackage{lipsum}
+\usepackage{ragged2e}
 
 %% Set page size using geometry
 \geometry{letterpaper, left=12.5mm, top=12.5mm, bottom=12.5mm, right=12.5mm}
 
 %% Let's define some colours using xcolor
-\definecolor{light}{HTML}{E6E6FA}
-% \definecolor{highlight}{HTML}{800080}
+\definecolor{light}{HTML}{CE03A9}
 \definecolor{highlight}{HTML}{1F51FF} % Neon blue
 \definecolor{dark}{HTML}{CE03A9} % Midnight blue 191970 #CE03A9 test pink
 
-%%%%% Style the page number using fancyhdr
+%%%%% Style the page number using fancyhdr, gets called in pagestyle.tex for BODY
 \fancypagestyle{mystyle}{
   \fancyhf{}
   \renewcommand\headrulewidth{0pt}   %% define the thickness of a line under the header
-  \fancyfoot[C]{\thepage} % \fancyfootoffset{1.5cm}
+  \fancyfoot[C]{Page \thepage} % \fancyfootoffset{1.5cm}
 }
 \setlength{\footskip}{15pt}   %% affects the page height
-
-%% Use some custom fonts % I downloaded ROBOTO from google fonts
-% \setsansfont{Ubuntu}[
-%     Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
-%     Scale=0.9,
-%     Extension = .ttf,
-%     UprightFont=*-Regular,
-%     BoldFont=*-Bold,
-%     ItalicFont=*-Italic,
-%     ]
-%
-% \setmainfont{Ubuntu}[
-%     Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
-%     Scale=0.9,
-%     Extension = .ttf,
-%     UprightFont=*-Regular,
-%     BoldFont=*-Bold,
-%     ItalicFont=*-Italic,
-%     ]
 
 %%%%% style the chapter/section fonts -- see Advanced Interface in titlesec.pdf
 % \chapterfont{\color{dark}\fontsize{20}{8}\selectfont}
 % \sectionfont{\color{dark}\fontsize{20}{8}\selectfont}
 % \subsectionfont{\color{dark}\fontsize{14}{8}\selectfont}
-% \titleformat{\subsection}
-% {\sffamily\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
+\titleformat{\subsection}{\sffamily\small\bfseries}{\thesection}{0em}{}[{\titlerule[0.8pt]}]
 
 %%%%% left align title using `at sign' macros
 \makeatletter
 \renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
-\begin{flushleft} %% left align with ragged right margin, \begin{center} didnt work
-  {\sffamily\huge\textbf{\@title}} \vspace{6pt} \newline
-  {\Large {\@subtitle}} \vspace{6pt} \newline
-  {\Large {\@author}} % \end{center}\egroup
+\begin{flushleft} %% left align with ragged right margin % \begin{center} %didnt work
+  {\sffamily\huge\textbf{\@title}} \vspace{4pt} \newline
+  {\Large {\@subtitle}} \vspace{0pt} \newline % {\Large {\@author}} % \end{center}\egroup
 \end{flushleft}\egroup
 }
 \makeatother
 
-%%%%% begin document
+%% Use some custom fonts % I downloaded ROBOTO from google fonts
+\setsansfont{Ubuntu}[
+    Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
+    Scale=0.9,
+    Extension = .ttf,
+    UprightFont=*-Regular,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    ]
+
+\setmainfont{Ubuntu}[
+    Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
+    Scale=0.9,
+    Extension = .ttf,
+    UprightFont=*-Regular,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    ]
