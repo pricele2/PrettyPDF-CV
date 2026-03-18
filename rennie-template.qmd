@@ -1,37 +1,20 @@
 ---
-title: "Pretty PDFs with Quarto"
+title: "Lauren Price, M.P.P., R.T.S.B.A."
+subtitle: "Houston, TX | 772-485-2635 | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [lauren.3.price@gmail.com](mailto:lauren.3.price@gmail.com) | [GitHub](https://github.com/pricele2)"
+# author: "[GitHub](https://github.com/pricele2) | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/)"
+
 format: PrettyPDF-pdf
 ---
 
-## Resources
+### Chapter Title
 
-Nicole Rennie at https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/ 
+\lipsum[1]
 
-and
+### Section Title
 
-Meghan Hall at https://meghan.rbind.io/blog/2022-09-25-tips-for-custom-parameterized-pdfs-in-quarto/ 
+Nicole Rennie at https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/ and Meghan Hall at https://meghan.rbind.io/blog/2022-09-25-tips-for-custom-parameterized-pdfs-in-quarto/ 
+and Pandoc vars for LaTeX at https://pandoc.org/MANUAL.html#variables-for-latex 
 
-and 
+### Subsection Title
 
-Pandoc vars for LaTeX at https://pandoc.org/MANUAL.html#variables-for-latex 
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-### Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+\lipsum[2]

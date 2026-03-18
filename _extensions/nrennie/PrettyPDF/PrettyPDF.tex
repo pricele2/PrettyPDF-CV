@@ -1,78 +1,65 @@
 % load packages
 \usepackage{geometry}
 \usepackage{xcolor}
-\usepackage{eso-pic}
+% \usepackage{eso-pic}
 \usepackage{fancyhdr}
-\usepackage{sectsty}
+% \usepackage{sectsty}
 \usepackage{fontspec}
-\usepackage{titlesec}
+% \usepackage{titlesec}
+\usepackage{lipsum}
 
-%% Set page size with a wider right margin
-\geometry{a4paper, total={170mm,257mm}, left=20mm, top=20mm, bottom=20mm, right=50mm}
-% \geometry{letter, left=20mm, top=20mm, bottom=20mm, right=20mm}
+%% Set page size using geometry
+\geometry{letterpaper, left=12.5mm, top=12.5mm, bottom=12.5mm, right=12.5mm}
 
-%% Let's define some colours
+%% Let's define some colours using xcolor
 \definecolor{light}{HTML}{E6E6FA}
-\definecolor{highlight}{HTML}{800080}
-\definecolor{dark}{HTML}{330033}
+% \definecolor{highlight}{HTML}{800080}
+\definecolor{highlight}{HTML}{1F51FF} % Neon blue
+\definecolor{dark}{HTML}{CE03A9} % Midnight blue 191970 #CE03A9 test pink
 
-%% Let's add the border on the right hand side
-\AddToShipoutPicture{%
-    \AtPageLowerLeft{%
-        \put(\LenToUnit{\dimexpr\paperwidth-3cm},0){%
-            \color{light}\rule{3cm}{\LenToUnit\paperheight}%
-          }%
-     }%
-     % logo
-    \AtPageLowerLeft{% start the bar at the bottom right of the page
-        \put(\LenToUnit{\dimexpr\paperwidth-2.25cm},27.2cm){% move it to the top right
-            \color{light}\includegraphics[width=1.5cm]{_extensions/nrennie/PrettyPDF/logo.png}
-          }%
-     }%
-}
-
-%% Style the page number
+%%%%% Style the page number using fancyhdr
 \fancypagestyle{mystyle}{
   \fancyhf{}
-  \renewcommand\headrulewidth{0pt}
-  \fancyfoot[R]{\thepage}
-  \fancyfootoffset{3.5cm}
+  \renewcommand\headrulewidth{0pt}   %% define the thickness of a line under the header
+  \fancyfoot[C]{\thepage} % \fancyfootoffset{1.5cm}
 }
-\setlength{\footskip}{20pt}
+\setlength{\footskip}{15pt}   %% affects the page height
 
-%% style the chapter/section fonts
-\chapterfont{\color{dark}\fontsize{20}{16.8}\selectfont}
-\sectionfont{\color{dark}\fontsize{20}{16.8}\selectfont}
-\subsectionfont{\color{dark}\fontsize{14}{16.8}\selectfont}
-\titleformat{\subsection}
-  {\sffamily\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
+%% Use some custom fonts % I downloaded ROBOTO from google fonts
+% \setsansfont{Ubuntu}[
+%     Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
+%     Scale=0.9,
+%     Extension = .ttf,
+%     UprightFont=*-Regular,
+%     BoldFont=*-Bold,
+%     ItalicFont=*-Italic,
+%     ]
+%
+% \setmainfont{Ubuntu}[
+%     Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
+%     Scale=0.9,
+%     Extension = .ttf,
+%     UprightFont=*-Regular,
+%     BoldFont=*-Bold,
+%     ItalicFont=*-Italic,
+%     ]
 
-% left align title
+%%%%% style the chapter/section fonts -- see Advanced Interface in titlesec.pdf
+% \chapterfont{\color{dark}\fontsize{20}{8}\selectfont}
+% \sectionfont{\color{dark}\fontsize{20}{8}\selectfont}
+% \subsectionfont{\color{dark}\fontsize{14}{8}\selectfont}
+% \titleformat{\subsection}
+% {\sffamily\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
+
+%%%%% left align title using `at sign' macros
 \makeatletter
 \renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
-\begin{flushleft}
-  {\sffamily\huge\textbf{\MakeUppercase{\@title}}} \vspace{0.3cm} \newline
-  {\Large {\@subtitle}} \newline
-  \@author
+\begin{flushleft} %% left align with ragged right margin, \begin{center} didnt work
+  {\sffamily\huge\textbf{\@title}} \vspace{6pt} \newline
+  {\Large {\@subtitle}} \vspace{6pt} \newline
+  {\Large {\@author}} % \end{center}\egroup
 \end{flushleft}\egroup
 }
 \makeatother
 
-%% Use some custom fonts
-\setsansfont{Ubuntu}[
-    Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
-    Scale=0.9,
-    Extension = .ttf,
-    UprightFont=*-Regular,
-    BoldFont=*-Bold,
-    ItalicFont=*-Italic,
-    ]
-
-\setmainfont{Ubuntu}[
-    Path=_extensions/nrennie/PrettyPDF/Ubuntu/,
-    Scale=0.9,
-    Extension = .ttf,
-    UprightFont=*-Regular,
-    BoldFont=*-Bold,
-    ItalicFont=*-Italic,
-    ]
+%%%%% begin document
