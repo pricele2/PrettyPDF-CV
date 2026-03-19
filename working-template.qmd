@@ -1,11 +1,11 @@
 ---
 title: "Lauren Price, M.P.P., R.T.S.B.A."
-subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com  | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2)"
+subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2) | [Calendly](https://calendly.com/lauren-3-price/quick-chat)"
 format: PrettyPDF-pdf
 ---
 ## PROFESSIONAL SUMMARY
 
-Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing enrollment strategy, staffing, capital planning, program evaluation, compliance, and statewide policy.
+Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing expansion strategy, staffing, capital planning, program evaluation, compliance, and statewide policy.
 
 ## EDUCATION
 
@@ -23,24 +23,24 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 ## PROFESSIONAL EXPERIENCE 
 
-**Houston Independent School District \hfill August 2014 - September 2025**   \newline
+**Houston Independent School District (HISD) \hfill August 2014 - September 2025**   \newline
 *Director, Finance Project Management* \newline
 *Deputy Director, Data Science & Analytics* \newline
 *Grant Manager & Program Analyst, Research & Accountability*
 
 **Strategic Data Leadership & Student Impact**
 
-- Led cohort-based enrollment analysis and campus incentive planning, retaining 4,570 more students than the May 2024 trendline projected, preserving $65.7M in state funding through 4-year cohort transition modeling and campus-level retention tools.
-- Designed K-means clustering models for 250+ schools, segmenting campuses into 6 groups for a state grant application and helping the CAO and CFO target intervention schools through principal component analysis.
-- Led HISD's pre-K analytics workstream, evaluating 165 campuses annually and informing 32 new classrooms at 26 schools, increasing capacity from 10,500 to 12,000 seats through demand, facility, staffing, and policy analysis.
-- Built and improved ArcGIS Seats Available models and business rules, supporting 160 schools and 200 daily users while reducing refresh time from 3 days to 15 minutes, enabling faster family enrollment and transportation decisions.
-- Allocated $200M in proposed bond investments across pre-K priorities, planning 4,000 new seats to raise capacity from 12,000 to 16,000 and expand access for all free pre-K eligible 4-year-olds nearby.
+- Led cohort-based enrollment analysis and campus incentive planning, retaining 4,570 more students than projected by trendline, preserving $65.7M in state funding through 4-year mobility modeling and campus-level retention tools.
+- Designed *k*-means clustering models for 250+ schools, segmenting campuses into 6 groups for a state grant application and helping the CAO and CFO target interventions through principal component analysis.
+- Led HISD's pre-K analytics workstream, evaluating 165 campuses annually and informing 32 new classrooms at 26 schools, increasing capacity from 10,500 to 12,000 seats through analyses of demand, facility, staffing, and policy constraints.
+- Built and improved ArcGIS "Seats Available Today" models and business rules, supporting 160 schools and 200 daily users while reducing refresh time from 3 days to 30 minutes, enabling faster family enrollment and transportation decisions.
+- Allocated $200M in proposed bond investments across pre-K priorities, planning 4,000 new seats to raise capacity from 12,000 to 16,000 and expand access to all 4-year-olds in the district eligible for free full-day pre-K.
 - Determined pre-K expansion feasibility across 160 schools, identifying 20 viable campuses and 12 requiring major renovation, with each approved site adding 22 seats through floorplans, walkthroughs, Google Earth, and code reviews.
 - Built a multivariate scoring model for pre-K expansion prioritization, ranking 160+ campuses and informing 32 classrooms at 26 schools, or 700 seats, replacing ad hoc principal requests with a districtwide strategy.
 - Reframed district policy around pre-K supply and demand, creating a shared planning vocabulary used in dashboards, policy documents, and board communications, accelerating decisions on expansion and marketing priorities across functions.
 - Modeled PK4-to-Kindergarten attrition patterns, finding 34% attrition since SY18-19, with campuses ranging from under 10% to over 80% loss, informing retention incentives and digital and door-knocking outreach efforts.
 - Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 500 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
-- Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% districtwide across 250 schools by moving eligibility notifications to early March before Spring Break.
+- Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications to early March before Spring Break.
 - Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review.
 
 **Causal Inference and Study Design**
@@ -49,9 +49,9 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Led HISD's transition from Woodcock-Johnson to CogAT for kindergarten GT screening, cutting testing time from 1,500 staff hours to 300 while setting local cut scores for 1,630 students through Monte Carlo simulation.
 - Served as PI for a randomized school-choice marketing study, testing 1 mailer across 115,000 enrolled students and documenting 2,000 returned pieces, showing leadership that 1-time mail outreach was insufficient.
 - Authored 4 program evaluation reports, analyzing 250,495 student records and 12,098 teachers to identify significant STAAR gains and 82% retention of high-performing STEM teachers at grant-funded schools.
-- Designed a causal-inference partnership with Education Analytics on performance-pay strategies, tracking 5,004 early-career math and science teachers across 24 schools over 5 years and showing retention bonuses were used 10 times more often.
-- Authored methodology standards for district curriculum-provider evaluations, governing 6 providers with common outcome measures and quasi-experimental design requirements, enabling leadership to compare products by cost and instructional value.
-- Co-wrote new HISD research-request policies and approval protocols, streamlining 60 annual studies by cutting review time from over 6 weeks to 3 and adopting 3 standard templates.
+- Designed a causal-inference partnership with Education Analytics on performance-pay strategies, tracking 5,004 early-career STEM teachers across 24 schools over 5 years and showing retention bonuses were used 10 times more often.
+- Authored methodology standards for district curriculum-provider evaluations, governing 6 providers with common learning outcomes and quasi-experimental design requirements, enabling leadership to compare products by cost and value.
+- Co-wrote new HISD research-request policies and approval protocols, streamlining 60 annual studies by cutting review time from over 6 weeks to 3 and adopting 3 standard templates to govern data sharing and strengthen privacy protections.
 
 **Data Analysis, Modeling, and Dissemination**
 
