@@ -1,6 +1,6 @@
 ---
 title: "Lauren Price, M.P.P., R.T.S.B.A."
-subtitle: "Houston, TX | 772-485-2635 | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [lauren.3.price@gmail.com](mailto:lauren.3.price@gmail.com) | [GitHub](https://github.com/pricele2)"
+subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com  | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2)"
 format: PrettyPDF-pdf
 ---
 ## PROFESSIONAL SUMMARY
@@ -24,10 +24,8 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 ## PROFESSIONAL EXPERIENCE 
 
 **Houston Independent School District \hfill August 2014 - September 2025**   \newline
-*Director, Finance Project Management*
-
-*Deputy Director, Data Science & Analytics*
-
+*Director, Finance Project Management* \newline
+*Deputy Director, Data Science & Analytics* \newline
 *Grant Manager & Program Analyst, Research & Accountability*
 
 **Strategic Data Leadership & Student Impact**
