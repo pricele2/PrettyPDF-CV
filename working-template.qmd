@@ -141,8 +141,8 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 **Diversity Scholarship, RStudio now Posit PBC \hfill	July 2022**  
 *posit::conf Conference and Workshop*	
 
-**Featured Publication, ArnieDocs	\hfill October 2021**  
-*Teacher Incentive Fund (TIF) Evaluations*
+**Featured Publication: TIF Program Evaluations \hfill October 2021**  
+*ARNIEdocs Research, Evaluation, and Assessment in the Schools*
 
 **Conference Presentation, Council of Great City Schools	\hfill October 2021**  
 *“Making Performance Pay Pay Off”*	
