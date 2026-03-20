@@ -5,7 +5,7 @@ format: PrettyPDF-pdf
 ---
 ## PROFESSIONAL SUMMARY
 
-Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing expansion strategy, staffing, capital planning, program evaluation, compliance, and statewide policy.
+Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing enrollment strategy, staffing, capital planning, program evaluation, compliance, and statewide policy.
 
 ## EDUCATION
 
@@ -32,7 +32,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 - Led cohort-based enrollment analysis and campus incentive planning, retaining 4,570 more students than projected by trendline, preserving $65.7M in state funding through 4-year mobility modeling and campus-level retention tools.
 - Designed *k*-means clustering models for 250+ schools, segmenting campuses into 6 groups for a state grant application and helping the CAO and CFO target interventions through principal component analysis.
-- Led HISD's pre-K analytics workstream, evaluating 165 campuses annually and informing 32 new classrooms at 26 schools, increasing capacity from 10,500 to 12,000 seats through analyses of demand, facility, staffing, and policy constraints.
+- Directed HISD's pre-K analytics workstream, evaluating 165 campuses annually and informing 32 new classrooms at 26 schools, increasing from 10,500 to 12,000 seats through analyses of demand, facility, staffing, and policy constraints.
 - Built and improved ArcGIS "Seats Available Today" models and business rules, supporting 160 schools and 200 daily users while reducing refresh time from 3 days to 30 minutes, enabling faster family enrollment and transportation decisions.
 - Allocated $200M in proposed bond investments across pre-K priorities, planning 4,000 new seats to raise capacity from 12,000 to 16,000 and expand access to all 4-year-olds in the district eligible for free full-day pre-K.
 - Determined pre-K expansion feasibility across 160 schools, identifying 20 viable campuses and 12 requiring major renovation, with each approved site adding 22 seats through floorplans, walkthroughs, Google Earth, and code reviews.
@@ -40,7 +40,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Reframed district policy around pre-K supply and demand, creating a shared planning vocabulary used in dashboards, policy documents, and board communications, accelerating decisions on expansion and marketing priorities across functions.
 - Modeled PK4-to-Kindergarten attrition patterns, finding 34% attrition since SY18-19, with campuses ranging from under 10% to over 80% loss, informing retention incentives and digital and door-knocking outreach efforts.
 - Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 500 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
-- Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications to early March before Spring Break.
+- Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications before Spring Break.
 - Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review.
 
 **Causal Inference and Study Design**
@@ -56,12 +56,12 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 **Data Analysis, Modeling, and Dissemination**
 
 - Queried, cleaned, and analyzed 70+ complex datasets covering 275 schools over 9 years, including 2.1M student records, 117,750 teacher records, and 240,000 choice applications, informing marketing and grant-program decisions. 
-- Designed and administered a districtwide compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no amount of money would offset a non-supportive principal. 
+- Designed and administered a compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no dollar amount could offset an unsupportive principal. 
 - Built student-teacher linkage and rostering for Panorama surveys, linking 122,000 students and 7,800 teachers across 250 campuses at 99.8% accuracy while replacing manual rostering and saving 1,200 hours.
-- Built reproducible ETL pipelines for staffing decisions across 200 elementary schools, supporting twice-daily refreshes that informed 232 teacher reassignments and elimination of 210 positions, reducing overstaffing costs and improving ratio compliance. 
+- Built reproducible ETL pipelines for staffing decisions across 200 campuses, supporting twice-daily refreshes that informed 232 teacher reassignments and 210 positions eliminated, reducing overstaffing costs and improving ratio compliance. 
 - Overhauled the Campus Demographic Report model and visualization, expanding access from 300 printed users to more than 20,000 online page views and improving Year 2 publication timing by 2 months. 
-- Managed 10-year demographic forecasting with Population and Survey Analytics, modeling enrollment scenarios used for bond planning and 12 campus closure or boundary decisions, helping avoid capital investment in schools later identified for closure. 
-- Modeled capital project cost estimates for 4 mutually exclusive operational plans, identifying a $2M range between lowest-cost and highest-cost options and showing the highest-risk scenario would cost more while preserving no additional value. 
+- Managed 10-year demographic forecasting with Population and Survey Analytics, modeling enrollment scenarios used for bond planning and 12 campus closure decisions, helping avoid investment in schools later identified for closure. 
+- Modeled capital project cost estimates for 4 mutually exclusive operational plans, identifying a $2M range between lowest- and highest-cost options and showing the highest-risk scenario would cost most while preserving no additional value. 
 - Drove process improvements for payroll and accounts-payable timeliness, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, improving employee trust while lowering correction costs. 
 - Built an error-resolution workflow for student schedules and readiness-screening compliance, reducing 2,100 schedule errors across 160 schools to under 0.2% within 10 days with 99.8% compliance.
 
@@ -69,33 +69,33 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 - Led 7 analysts in building reproducible daily data products for executive decision-making, refreshing 6 daily products and cutting cycle time from 6 hours to under 1 hour, supporting decisions affecting 3,000 students.
 - Conducted code reviews, QA testing, and coaching for 6 junior and 3 peer analysts, accelerating adoption of reusable modular scripts, reducing rework cycles, and improving turnaround and cross-project handoffs.
-- Led negotiation and revision of external data-use agreements, completing 16 agreements while reducing review cycles from 3 months to 6 weeks, protecting FERPA compliance across 275 schools and 210,000 students annually.
-- Managed annual CGCS data submissions across district operations and academics, delivering 1,100 unique metrics each year on time without revised submissions, enabling benchmarking against 55 large urban districts and quarterly internal KPIs.
+- Negotiated and revised external data-use agreements, completing 16 agreements/quarter while reducing review cycles from 3 months to 6 weeks, protecting FERPA compliance across 275 schools and 210,000 students annually.
+- Managed annual Council of Great City Schools data submissions across district operations and academics, delivering 1,100 unique metrics without revised submissions, enabling benchmarking against 55 peer districts and quarterly internal KPIs.
 - Served on the district Data Sharing Committee reviewing agreement language biweekly, revising 20 agreements per quarter over 3 years, standardizing templates and strengthening FERPA, COPPA, and consortium-aligned compliance.
 - Led 3 major SchoolFinder releases, supporting families of 25,000 applicants in 2023-24 and 20,000 in 2024-25 while reducing refresh cycles from 3 work-weeks to under 3 hours.
 
 **Program Evaluation, Grants, and Regulatory Compliance**
 
 - Managed budgeting, evaluation, and implementation for 3 USDE discretionary grants, overseeing $62.3M across 7 years with on-time reporting, a successful 2019 site visit, and a FY16 Deloitte single audit with 0 findings.
-- Kept federal grant spending on time and in scope across 7 years, closing the $14,998,280 84.374B grant with less than $10 unspent, or 99.9999% utilized, avoiding clawbacks and supporting a 1-year no-cost extension.
+- Closed federal grant spending on time and in scope across 7 years, closing the $14,998,280 84.374B grant with less than $10 unspent, or 99.9999% utilized, avoiding clawbacks and supporting a 1-year no-cost extension.
 - Reconciled monthly grant actuals against federal and governmental accounting rules, reviewing every PO, quote, and check across 7 cost centers plus up to $100,000 in monthly payroll, restoring all 3 grants to schedule.
-- Authored 20 semiannual USDE program reports, submitting all on time with satisfactory determinations while tracking teacher retention, bonus uptake, STAAR gains, and minority-group-isolation outcomes supporting amendments and continued funding.
-- Negotiated scopes of work and monitored vendor and partner agreements, managing 70 contracts worth $37.4M over 7 years, protecting intellectual property, privacy, and service continuity while supporting STEM experiences for 16,500 students.
+- Authored 20 semiannual reports to USDE, submitting all on time with satisfactory determinations for amendments and continued funding while tracking teacher retention, bonus uptake, STAAR gains, and minority-group-isolation outcomes.
+- Negotiated scopes of work and monitored vendor/partner agreements, managing 70 contracts worth $37.4M over 7 years, protecting intellectual property, privacy, and service continuity while supporting STEM experiences for 16,500 students.
 - Audited current contracts and data-sharing agreements, reviewing 150 agreements and finding over 75% missing critical FERPA clauses and about 80% lacking security constraints, triggering a full redesign of research-approval controls.
 - Authored district legal templates for external data-access agreements, creating 2 full contract templates and 8 exhibits adopted in 100 agreements, reducing legal back-and-forth and restoring district control over deletion and privacy terms.
 - Composed 8 standard National Student Data Privacy Agreement exhibits for procurement, affecting 160 contracts annually starting in 2024, reducing review time and negotiation while strengthening breach, retention, and access protections.
-Ensured compliance across 200+ elementary schools by flagging user errors and issuing daily corrective guidance, reducing 2,100 student-schedule errors to under 0.2% within 10 days with 99.8% compliance.
+- Ensured compliance across 200+ elementary schools by flagging user errors and issuing daily corrective guidance, reducing 2,100 student-schedule errors to under 0.2% within 10 days with 99.8% compliance.
 - Served on TEA's statewide Information Task Force shaping data policy and reporting schedules, helping drive changes adopted by all 1,016 districts and 20 service centers affecting 5.5M students statewide.
 
 **Financial Controls and Budget Management**
 
 - Led 12 cross-functional projects for the CFO and senior operations leaders over 9 months, supporting initiatives affecting $203.4M in payroll and a $30M supply operation across 110 departments.
 - Overhauled the 500+ page Finance Manual for campus-based and departmental users, supporting 400 cost centers and training clerks from 350 of them, resolving prior audit findings while reducing purchase delays and escalations.
-- Improved payroll and accounts-payable timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust.
+- Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust.
 - Allocated $200M in proposed bond investments using pre-K supply and demand analysis, planning 4,000 additional seats that would expand capacity from 12,000 to 16,000 and improve projected access for eligible 4-year-olds districtwide.
 - Managed annual budgeting and project implementation for $62.3M in federal and matching grant expenditures, maintaining on-time reporting for 7 years and supporting 0 audit findings in FY16 through recurring monitoring and budget controls.
-- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65%.
-- Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 84.374B grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors.
+- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years.
+- Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 TIF4 grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors.
 
 **Research Operations and Technical Infrastructure**
 
@@ -159,21 +159,21 @@ Pane, J., Doss, C., Todd, I., & Seaman, D. (2025, June). ***Efficacy of Zearn Ma
 
 **Price, L.**, & Islam, F. (2025, February). **Technical Documentation: Local Norms & GT Matrix Scores for Students Entering Kindergarten in SY25-26**. HISD: Internal Publication.
 
-**Price, L**., Lasode, M., & Powers, K. (2023, December). ***Memorandum To Chief Financial Officer: FY25 Forecasting Models for Student Average Daily Attendance.*** HISD: Internal Memo.
+**Price, L**., Lasode, M., & Powers, K. (2023, December). ***Memo To Chief Financial Officer: FY25 Forecasting Models for Student Average Daily Attendance.*** HISD: Internal Memo.
 
-Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). *2021-2022 **Campus Demographic Report.*** HISD: Research and Accountability.
+Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). **2021-2022 Campus Demographic Report.** HISD: Research and Accountability.
 
 **Price, L**., & Scuello, M. (2022, May). ***Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.*** HISD: Internal Publication.
 
-**Price, L.**, & Matney, A. (2021, December). ***Memorandum to Executive Officer, Student Support: Additional Students Identified as Eligible Under McKinney-Vento***. HISD: Internal Memo.
+**Price, L.**, & Matney, A. (2021, December). ***Memo to Executive Officer, Student Support: Additional Homeless Students Identified as Eligible for Services Under McKinney-Vento***. HISD: Internal Memo.
 
-Aulicino, C., Rinehart, C., & **Price, L.** (2021, October). ***Secondary STEM Magnet Programs Study: Year 2\.*** Metis Associates: Internal Publication for HISD.
+Aulicino, C., Rinehart, C., & **Price, L.** (2021, October). **Secondary STEM Magnet Programs Study: Year 2\.** Metis Associates: Internal Publication for HISD.
 
-Aulicino, C., Rinehart, C., & **Price, Lauren.** (2020, September). ***STEM Magnet Program Study: Year 1\.*** **Metis Associates**: Internal Publication for HISD.
+Aulicino, C., Rinehart, C., & **Price, L.** (2020, September). **STEM Magnet Program Study: Year 1\.** Metis Associates: Internal Publication for HISD.
 
 **Price, L.**, Christian, M., & Stevens, C. (2018a). ***A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD**.* HISD: Research and Accountability. ERIC Number ED603680.
 
-**Price, L.**, Cramer, E., Milanowski, A., Mader, J., Robertson, D., & Stevens, C. (2018b). ***A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD.*** HISD: Research and Accountability. ERIC Number ED603681.
+**Price, L.**, Cramer, E., Milanowski, A., Mader, J., & Stevens, C. (2018b). ***A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD.*** HISD: Research and Accountability. ERIC Number ED603681.
 
 **Price, L.**, Provencher, S., & Stevens, C. (2018c). ***A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD***. HISD: Research and Accountability. ERIC Number ED603678.
 
