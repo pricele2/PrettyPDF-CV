@@ -1,0 +1,36 @@
+---
+title: "Lauren Price, M.P.P., R.T.S.B.A."
+subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2) | [Calendly](https://calendly.com/lauren-3-price/quick-chat)"
+format: PrettyPDF-pdf
+date: today
+date-format: long
+---
+
+\today
+
+Senior Manager, Reporting and Analytics \newline
+Office of the Chief Information Technology Officer \newline
+Fairfax County Public Schools 
+
+Dear Hiring Committee:
+
+I am pleased to apply for the position of Senior Manager II, Data Science Analytics (#16424). This specific role would let me contribute my K-12 domain knowledge, technical skills, cutting-edge training, and leadership to a school district environment.
+
+I am deeply passionate about the transformative power of public schools, and I have been closely watching the FCPS job board for two reasons. First, I know from my former Houston ISD colleagues Billy Solomon (Chief Human Resources Officer) and Michael Kucharczyk (Data Specialist) that working for Fairfax County Public Schools has been a really rewarding professional experience. Second, I am actively seeking opportunities to relocate from Houston Texas to the NoVA area for family reasons.
+
+The strongest candidate for this position will bring their unique combination of four things: experience, skills, passions/values, and personality. My professional experience and technical skills are laid out in more detail in my attached full CV. Briefly, after six years post-BA spent working in the nonprofit sector, I went back to school to earn my Master’s of Public Policy in K-12 Education and Leadership in a prestigious quant-heavy program (Peabody College, Vanderbilt University).
+
+Since then, I have spent over a decade in K-12 public education analytics, research, data governance, and regulatory compliance. I proudly served the students, teachers, and families of my community by doing my best work as an administrator in the central office. My chapter with Houston ISD saw me leading cross-functional teams in analytics initiatives and data product lifecycles, delivering accurate and timely data to decision-makers, and implementing advanced data science methodologies and complex data product designs to solve the District’s business needs. 
+
+In 2025, I had the opportunity to participate in a targeted training program to advance computational and analytic capacity in K-12 education, funded by the Institute of Education Sciences at the National Center for Educational Statistics. I was one of just 20 chosen from over 200 applicants to the Innovation Science for Education Analytics (ISEA) training program, a sixteen-week curriculum emphasizing state-of-the-art machine learning and AI strategies informed by education domain knowledge, computational workflows, and immediate applications for the K-12 environment. This deep training and its culminating “hackweek” experience confirmed for me that “human in the loop” data strategies have never been more important for K12 schools and edtech providers. 
+
+As for the *people* side of this technical role, I am an experienced leader with six years of managing, coaching, and mentoring technical analysts and stakeholder-facing program staff. As a supervisor, I set high expectations and clear parameters, establish collaborative practices and team norms, and then both oversee and coach up where needed so our colleagues across the District can see consistent results. I deliberately foster a high-performing, mutually accountable team culture — aiming to be the kind of leader that educational theorist Dr. Gloria Ladson-Billings might call a ‘warm demander’. But I also kindle a sense of together-ness, continuous improvement through peer learning, and humor within my team environments. 
+
+For example, during a high-stakes team project I proudly accepted a meme-based compliment from a creative junior colleague highlighting my ability to make machine-readable, reproducible, tidy data out of our stakeholders’ chaotic original files: *Only Lauren can take this mess of files, and produce a Princess-Diaries-worthy result.* We all laughed at the meme, I taught them how to replicate my scripts, and we met our deadlines even under the tight time constraints.
+
+Thank you for your consideration, and I hope to hear from your team soon.
+
+\vspace{12pt} 
+Regards, 
+
+Lauren Price

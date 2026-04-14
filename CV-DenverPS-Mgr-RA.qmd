@@ -26,7 +26,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 **Houston Independent School District (HISD) \hfill August 2014 - September 2025**   \newline
 *Director, Finance Project Management* \newline
 *Deputy Director, Data Science & Analytics* \newline
-*Grant Manager & Program Analyst, Research & Accountability*
+*Grant Manager & Program Evaluation Analyst, Research & Accountability*
 
 **Strategic Data Leadership & Student Impact**
 
@@ -47,7 +47,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 - Managed district data operations for an IES-funded RAND randomized trial of Zearn Math, covering 32,314 students and 845 teachers across 64 schools in 3 years for study meeting WWC standards without reservation.
 - Led HISD's transition from Woodcock-Johnson to CogAT for kindergarten GT screening, cutting testing time from 1,500 staff hours to 300 while setting local cut scores for 1,630 students through sampling strategy and Monte Carlo simulation.
-- Served as PI for a randomized school-choice marketing study, testing 1 mailer across 115,000 enrolled students and documenting 2,000 returned pieces, showing leadership that 1-time mail outreach was insufficient.
+- Served as PI for a RCT school-choice marketing study, testing 1 mailer across 115,000 enrolled students and documenting 2,000 returned pieces, showing leadership that current mail outreach yielded zero effects.
 - Authored 4 program evaluation reports, analyzing 250,495 student records and 12,098 teachers to identify significant STAAR gains and 82% retention of high-performing STEM teachers at grant-funded schools.
 - Designed a causal-inference partnership with Education Analytics on performance-pay strategies, tracking 5,004 early-career STEM teachers across 24 schools over 5 years and showing retention bonuses were used 10 times more often.
 - Authored methodology standards for district curriculum-provider evaluations, governing 6 providers with common learning outcomes and quasi-experimental design requirements, enabling leadership to compare products by cost and value.
@@ -56,10 +56,10 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 **Data Analysis, Modeling, and Dissemination**
 
 - Queried, cleaned, and analyzed 70+ complex datasets covering 275 schools over 9 years for program evaluations, including 2.1M student records, 117,750 teacher records, and 240,000 choice applications, informing program decisions.
-- Designed and administered a compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no dollar amount could offset an unsupportive principal. 
+- Designed and administered a compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no compensation level could offset an unsupportive principal. 
 - Built student-teacher linkage and rostering for Panorama surveys, linking 122,000 students and 7,800 teachers across 250 campuses at 99.8% accuracy while replacing manual rostering and saving 1,200 hours.
 - Built reproducible ETL pipelines for staffing decisions across 200 campuses, supporting twice-daily refreshes that informed 232 teacher reassignments and 210 positions eliminated, reducing overstaffing costs and improving ratio compliance. 
-- Overhauled the Campus Demographic Report model and visualization, expanding access from 300 printed users to more than 20,000 online page views and improving Year 2 publication timing by 2 months. 
+- Overhauled the Campus Demographic Report model and legacy visualization, expanding access from 300 printed users to more than 20,000 online page views and improving Year 2 publication timing by 2 months. 
 - Managed 10-year demographic forecasting with Population and Survey Analytics, modeling enrollment scenarios used for bond planning and 12 campus closure decisions, helping avoid investment in schools later identified for closure. 
 - Modeled capital project cost estimates for 4 mutually exclusive operational plans, identifying a $2M range between lowest- and highest-cost options and showing the highest-risk scenario would cost most while preserving no additional value. 
 - Drove process improvements for payroll and accounts-payable timeliness, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, improving employee trust while lowering correction costs. 
@@ -69,7 +69,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 - Led 7 analysts in building reproducible daily data products for executive decision-making, refreshing 6 daily products and cutting cycle time from 6 hours to under 1 hour, supporting decisions affecting 3,000 students.
 - Conducted code reviews, QA testing, and coaching for 6 junior and 3 peer analysts, accelerating adoption of reusable modular scripts, reducing rework cycles, and improving turnaround and cross-project handoffs.
-- Negotiated and revised external data-use agreements, completing 16 agreements/quarter while reducing review cycles from 3 months to 6 weeks, protecting FERPA compliance across 275 schools and 210,000 students annually.
+- Negotiated and revised external data-use agreements, completing 16+ agreements/quarter while reducing review cycles from 3 months to 6 weeks, protecting FERPA compliance across 275 schools and 210,000 students annually.
 - Managed annual Council of Great City Schools data submissions across district operations and academics, delivering 1,100 unique metrics without revised submissions, enabling benchmarking against 55 peer districts and quarterly internal KPIs.
 - Served on the district Data Sharing Committee reviewing agreement language biweekly, revising 20 agreements per quarter over 3 years, standardizing templates and strengthening FERPA, COPPA, and consortium-aligned compliance.
 - Led 3 major SchoolFinder releases, supporting families of 25,000 applicants in 2023-24 and 20,000 in 2024-25 while reducing refresh cycles from 3 work-weeks to under 3 hours.
@@ -94,7 +94,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust.
 - Allocated $200M in proposed bond investments using pre-K supply and demand analysis, planning 4,000 additional seats that would expand capacity from 12,000 to 16,000 and improve projected access for eligible 4-year-olds districtwide.
 - Managed annual budgeting and project implementation for $62.3M in federal and matching grant expenditures, maintaining on-time reporting for 7 years and supporting 0 audit findings in FY16 through recurring monitoring and budget controls.
-- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years.
+- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending schedule within 18 months and limiting forfeiture to 0.65% over 7+ years.
 - Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 TIF4 grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors.
 
 **Research Operations and Technical Infrastructure**
@@ -155,37 +155,37 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 ## SELECT PUBLICATIONS
 
-Pane, J., Doss, C., Todd, I., & Seaman, D. (2025, June). ***Efficacy of Zearn Math over two years in grades 3 to 5: An experiment in Texas.*** (EdWorkingPaper: 25-1211). Retrieved from Annenberg Institute at Brown University.
+Pane, J., Doss, C., Todd, I., & Seaman, D. (2025, June). **Efficacy of Zearn Math over two years in grades 3 to 5: An experiment in Texas.** (EdWorkingPaper: 25-1211). Retrieved from Annenberg Institute at Brown University.
 
-**Price, L.**, & Islam, F. (2025, February). **Technical Documentation: Local Norms & GT Matrix Scores for Students Entering Kindergarten in SY25-26**. HISD: Internal Publication.
+**Price, L.**, & Islam, F. (2025, February). **Technical Documentation: Local Norms & GT Matrix Scores for Students Entering kindergarten in SY25-26**. HISD: Internal Publication.
 
-**Price, L**., Lasode, M., & Powers, K. (2023, December). ***Memo To Chief Financial Officer: FY25 Forecasting Models for Student Average Daily Attendance.*** HISD: Internal Memo.
+**Price, L**., Lasode, M., & Powers, K. (2023, December). **Memo To Chief Financial Officer: FY25 Forecasting Models for Student Average Daily Attendance.** HISD: Internal Memo.
 
 Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). **2021-2022 Campus Demographic Report.** HISD: Research and Accountability.
 
-**Price, L**., & Scuello, M. (2022, May). ***Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.*** HISD: Internal Publication.
+**Price, L**., & Scuello, M. (2022, May). **Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.** HISD: Internal Publication.
 
-**Price, L.**, & Matney, A. (2021, December). ***Memo to Executive Officer, Student Support: Additional Homeless Students Identified as Eligible for Services Under McKinney-Vento***. HISD: Internal Memo.
+**Price, L.**, & Matney, A. (2021, December). **Memo to Executive Officer, Student Support: Additional Homeless Students Identified as Eligible for Services Under McKinney-Vento**. HISD: Internal Memo.
 
 <!-- Aulicino, C., Rinehart, C., & **Price, L.** (2021, October). **Secondary STEM Magnet Programs Study: Year 2\.** Metis Associates: Internal Publication for HISD. -->
 
 <!-- Aulicino, C., Rinehart, C., & **Price, L.** (2020, September). **STEM Magnet Program Study: Year 1\.** Metis Associates: Internal Publication for HISD. -->
 
-**Price, L.**, Christian, M., & Stevens, C. (2018a). ***A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD**.* HISD: Research and Accountability. ERIC Number ED603680.
+**Price, L.**, Christian, M., & Stevens, C. (2018a). **A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD**. HISD: Research and Accountability. ERIC Number ED603680.
 
-**Price, L.**, Cramer, E., Milanowski, A., Mader, J., & Stevens, C. (2018b). ***A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD.*** HISD: Research and Accountability. ERIC Number ED603681.
+**Price, L.**, Cramer, E., Milanowski, A., Mader, J., & Stevens, C. (2018b). **A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD.** HISD: Research and Accountability. ERIC Number ED603681.
 
-**Price, L.**, Provencher, S., & Stevens, C. (2018c). ***A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD***. HISD: Research and Accountability. ERIC Number ED603678.
+**Price, L.**, Provencher, S., & Stevens, C. (2018c). **A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD**. HISD: Research and Accountability. ERIC Number ED603678.
 
 <!-- **Price, L.**, & Stevens, C. (2017). ***Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness***. HISD: Research and Accountability. -->
 
-**Price, L.**, Jordan, S., & Stevens, C. (2016, January). ***Preferences and Perspectives on Teacher Compensation, 2014-2015***. HISD: Internal Publication.
+**Price, L.**, Jordan, S., & Stevens, C. (2016, January). **Preferences and Perspectives on Teacher Compensation, 2014-2015**. HISD: Internal Publication.
 
-**Price, L.** (2014). ***Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement*** \[Unpublished master’s thesis\]. Peabody College of Education and Human Development, Vanderbilt University.
+**Price, L.** (2014). **Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement** \[Unpublished master’s thesis\]. Peabody College of Education and Human Development, Vanderbilt University.
 
 ## TECHNICAL SKILLS
 
-**Programming and Data Tools:** R, Python, SQL, Stata, DAX, RStudio, Posit, R Markdown, Quarto, LaTeX, Git, GitHub, ETL, Relational Databases, Database Administration, Monte Carlo Simulation Modeling, *k*-means Clustering, Multivariate Modeling, Machine Learning, Statistical Analysis, Econometrics, Large-Scale Data Analysis, Data Modeling, Metadata
+**Programming and Data Tools:** R, SQL, Stata, RStudio, R Markdown, Quarto, LaTeX, Git, GitHub, ETL, Relational Databases, Database Administration, Monte Carlo Simulation Modeling, *k*-means Clustering, Multivariate Modeling, Machine Learning, Statistical Analysis, Econometrics, Large-Scale Data Analysis, Data Modeling, Metadata
 
 **Business Intelligence:** Power BI, Tableau, ArcGIS, Google Earth, PowerQuery, Microsoft Excel, Spreadsheets, Reporting Requirements, Presentations
 

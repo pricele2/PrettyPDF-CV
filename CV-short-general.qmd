@@ -22,12 +22,12 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 <!-- - Built and improved ArcGIS "Seats Available Today" models and business rules, supporting 160 schools and 200 daily users while reducing refresh time from 3 days to 30 minutes, enabling faster family enrollment and transportation decisions. -->
 <!-- - Allocated $200M in proposed bond investments across pre-K priorities, planning 4,000 new seats to raise capacity from 12,000 to 16,000 and expand access to all 4-year-olds in the district eligible for free full-day pre-K. -->
 <!-- - Determined pre-K expansion feasibility across 160 schools, identifying 20 viable campuses and 12 requiring major renovation, with each approved site adding 22 seats through floorplans, walkthroughs, Google Earth, and code reviews. -->
-- Built a multivariate scoring model for pre-K expansion prioritization, ranking 160+ campuses and informing 32 classrooms at 26 schools, or 700 seats, replacing ad hoc principal requests with a districtwide strategy.
+<!-- - Built a multivariate scoring model for pre-K expansion prioritization, ranking 160+ campuses and informing 32 classrooms at 26 schools, or 700 seats, replacing ad hoc principal requests with a districtwide strategy. -->
 <!-- - Reframed district policy around pre-K supply and demand, creating a shared planning vocabulary used in dashboards, policy documents, and board communications, accelerating decisions on expansion and marketing priorities across functions. -->
 <!-- - Modeled PK4-to-Kindergarten attrition patterns, finding 34% attrition since SY18-19, with campuses ranging from under 10% to over 80% loss, informing retention incentives and digital and door-knocking outreach efforts. -->
 - Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 500 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
 <!-- - Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications before Spring Break. -->
-- Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review.
+<!-- - Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review. -->
 
 **Causal Inference and Study Design**
 
@@ -35,7 +35,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Led HISD's transition from Woodcock-Johnson to CogAT for kindergarten GT screening, cutting testing time from 1,500 staff hours to 300 while setting local cut scores for 1,630 students through Monte Carlo simulation.
 <!-- - Served as PI for a randomized school-choice marketing study, testing 1 mailer across 115,000 enrolled students and documenting 2,000 returned pieces, showing leadership that 1-time mail outreach was insufficient. -->
 - Authored 4 program evaluation reports, analyzing 250,495 student records and 12,098 teachers to identify significant STAAR gains and 82% retention of high-performing STEM teachers at grant-funded schools.
-- Designed a causal-inference partnership with Education Analytics on performance-pay strategies, tracking 5,004 early-career STEM teachers across 24 schools over 5 years and showing retention bonuses were used 10 times more often.
+<!-- - Designed a causal-inference partnership with Education Analytics on performance-pay strategies, tracking 5,004 early-career STEM teachers across 24 schools over 5 years and showing retention bonuses were used 10 times more often. -->
 <!-- - Authored methodology standards for district curriculum-provider evaluations, governing 6 providers with common learning outcomes and quasi-experimental design requirements, enabling leadership to compare products by cost and value. -->
 <!-- - Co-wrote new HISD research-request policies and approval protocols, streamlining 60 annual studies by cutting review time from over 6 weeks to 3 and adopting 3 standard templates to govern data sharing and strengthen privacy protections. -->
 
@@ -64,9 +64,9 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 - Managed budgeting, evaluation, and implementation for 3 USDE discretionary grants, overseeing $62.3M across 7 years with on-time reporting, a successful 2019 site visit, and a FY16 Deloitte single audit with 0 findings.
 - Closed federal grant spending on time and in scope across 7 years, closing the $14,998,280 84.374B grant with less than $10 unspent, or 99.9999% utilized, avoiding clawbacks and supporting a 1-year no-cost extension.
-- Reconciled monthly grant actuals against federal and governmental accounting rules, reviewing every PO, quote, and check across 7 cost centers plus up to $100,000 in monthly payroll, restoring all 3 grants to schedule.
+<!-- - Reconciled monthly grant actuals against federal and governmental accounting rules, reviewing every PO, quote, and check across 7 cost centers plus up to $100,000 in monthly payroll, restoring all 3 grants to schedule. -->
 <!-- - Authored 20 semiannual reports to USDE, submitting all on time with satisfactory determinations for amendments and continued funding while tracking teacher retention, bonus uptake, STAAR gains, and minority-group-isolation outcomes. -->
-- Negotiated scopes of work and monitored vendor/partner agreements, managing 70 contracts worth $37.4M over 7 years, protecting intellectual property, privacy, and service continuity while supporting STEM experiences for 16,500 students.
+<!-- - Negotiated scopes of work and monitored vendor/partner agreements, managing 70 contracts worth $37.4M over 7 years, protecting intellectual property, privacy, and service continuity while supporting STEM experiences for 16,500 students. -->
 - Audited current contracts and data-sharing agreements, reviewing 150 agreements and finding over 75% missing critical FERPA clauses and about 80% lacking security constraints, triggering a full redesign of research-approval controls.
 <!-- - Authored district legal templates for external data-access agreements, creating 2 full contract templates and 8 exhibits adopted in 100 agreements, reducing legal back-and-forth and restoring district control over deletion and privacy terms. -->
 <!-- - Composed 8 standard National Student Data Privacy Agreement exhibits for procurement, affecting 160 contracts annually starting in 2024, reducing review time and negotiation while strengthening breach, retention, and access protections. -->
@@ -77,10 +77,10 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 <!-- - Led 12 cross-functional projects for the CFO and senior operations leaders over 9 months, supporting initiatives affecting $203.4M in payroll and a $30M supply operation across 110 departments. -->
 - Overhauled the 500+ page Finance Manual for campus-based and departmental users, supporting 400 cost centers and training clerks from 350 of them, resolving prior audit findings while reducing purchase delays and escalations.
-<!-- - Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust. -->
+- Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust.
 <!-- - Allocated $200M in proposed bond investments using pre-K supply and demand analysis, planning 4,000 additional seats that would expand capacity from 12,000 to 16,000 and improve projected access for eligible 4-year-olds districtwide. -->
 <!-- - Managed annual budgeting and project implementation for $62.3M in federal and matching grant expenditures, maintaining on-time reporting for 7 years and supporting 0 audit findings in FY16 through recurring monitoring and budget controls. -->
-- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years.
+<!-- - Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years. -->
 <!-- - Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 TIF4 grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors. -->
 
 <!-- **Research Operations and Technical Infrastructure** -->
@@ -143,7 +143,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 ## TECHNICAL SKILLS
 
-**Programming and Data Tools:** R, Python, SQL, Stata, DAX, RStudio, Posit, R Markdown, Quarto, LaTeX, Git, GitHub, ETL, Relational Databases, Database Administration, Monte Carlo Simulation Modeling, *k*-means Clustering, Multivariate Modeling, Machine Learning, Statistical Analysis, Econometrics, Large-Scale Data Analysis, Data Modeling, Metadata
+**Programming and Data Tools:** R, SQL, Stata, RStudio, R Markdown, Quarto, LaTeX, Git, GitHub, ETL, Relational Databases, Database Administration, Monte Carlo Simulation Modeling, *k*-means Clustering, Multivariate Modeling, Machine Learning, Statistical Analysis, Econometrics, Large-Scale Data Analysis, Data Modeling, Metadata
 
 **Business Intelligence:** Power BI, Tableau, ArcGIS, Google Earth, PowerQuery, Microsoft Excel, Spreadsheets, Reporting Requirements, Presentations
 
