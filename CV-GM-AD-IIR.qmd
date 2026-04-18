@@ -1,11 +1,11 @@
 ---
-title: "Lauren Price, M.P.P., R.T.S.B.A."
+title: "Lauren Price, MPP, RTSBA"
 subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2) | [Calendly](https://calendly.com/lauren-3-price/quick-chat)"
 format: PrettyPDF-pdf
 ---
 ## PROFESSIONAL SUMMARY
 
-Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing enrollment strategy, staffing, capital planning, program evaluation, compliance, and statewide policy.
+Data and policy leader with 10+ years of experience in analytics, causal inference, forecasting, grants management, data governance, and financial operations in K-12 education, informing program strategy, staffing, program evaluation, and data privacy compliance.
 
 ## EDUCATION
 
@@ -39,6 +39,9 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Built a multivariate scoring model for pre-K expansion prioritization, ranking 160+ campuses and informing 32 classrooms at 26 schools, or 700 seats, replacing ad hoc principal requests with a districtwide strategy.
 - Reframed district policy around pre-K supply and demand, creating a shared planning vocabulary used in dashboards, policy documents, and board communications, accelerating decisions on expansion and marketing priorities across functions.
 - Modeled PK4-to-kindergarten attrition patterns, finding 34% attrition since SY18-19, with campuses ranging from under 10% to over 80% loss, informing retention incentives and digital and door-knocking outreach efforts.
+- Advised TEA takeover transition planning across HR, finance, planning, and accountability, helping reallocate 73% of the FY24 budget, or $1.6B, while revising budgets for 130 campuses and compensation for 16,000 employees.
+- Managed data for a district audit of college, career, and military readiness programs, compiling 1,024,924 annual student records across 40 high schools and 6 readiness programs over 10 years.
+- Integrated district, partner, and Census data to evaluate the Houston Food Bank collaboration, analyzing services reaching 120,000 students at 200 schools and over 1M meals across 3 programs, helping reduce duplication and improve coverage.
 - Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 500 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
 - Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications before Spring Break.
 - Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review.
@@ -55,10 +58,10 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 **Data Analysis, Modeling, and Dissemination**
 
+- Built reproducible ETL pipelines for staffing decisions across 200 campuses, supporting twice-daily refreshes that informed 232 teacher reassignments and 210 positions eliminated, reducing overstaffing costs and improving ratio compliance. 
 - Queried, cleaned, and analyzed 70+ complex datasets covering 275 schools over 9 years for program evaluations, including 2.1M student records, 117,750 teacher records, and 240,000 choice applications, informing program decisions.
 - Designed and administered a compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no dollar amount could offset an unsupportive principal. 
-- Built student-teacher linkage and rostering for Panorama surveys, linking 122,000 students and 7,800 teachers across 250 campuses at 99.8% accuracy while replacing manual rostering and saving 1,200 hours.
-- Built reproducible ETL pipelines for staffing decisions across 200 campuses, supporting twice-daily refreshes that informed 232 teacher reassignments and 210 positions eliminated, reducing overstaffing costs and improving ratio compliance. 
+- Built student-teacher rostering for school climate surveys, linking 122,000 students and 7,800 teachers across 250 campuses at 99.8% accuracy while replacing manual rostering and saving 1,200 hours.
 - Overhauled the Campus Demographic Report model and visualization, expanding access from 300 printed users to more than 20,000 online page views and improving Year 2 publication timing by 2 months. 
 - Managed 10-year demographic forecasting with Population and Survey Analytics, modeling enrollment scenarios used for bond planning and 12 campus closure decisions, helping avoid investment in schools later identified for closure. 
 - Modeled capital project cost estimates for 4 mutually exclusive operational plans, identifying a $2M range between lowest- and highest-cost options and showing the highest-risk scenario would cost most while preserving no additional value. 
@@ -73,44 +76,45 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Managed annual Council of Great City Schools data submissions across district operations and academics, delivering 1,100 unique metrics without revised submissions, enabling benchmarking against 55 peer districts and quarterly internal KPIs.
 - Served on the district Data Sharing Committee reviewing agreement language biweekly, revising 20 agreements per quarter over 3 years, standardizing templates and strengthening FERPA, COPPA, and consortium-aligned compliance.
 - Led 3 major SchoolFinder releases, supporting families of 25,000 applicants in 2023-24 and 20,000 in 2024-25 while reducing refresh cycles from 3 work-weeks to under 3 hours.
+- Managed a 7-figure NASA Johnson Space Center partnership, overseeing an estimated $2.4M over 3 years serving 5 schools, 100 teachers, and 28,000 annual coaching and planning hours with 0 budget variance.
 
 **Program Evaluation, Grants, and Regulatory Compliance**
 
 - Managed budgeting, evaluation, and implementation for 3 USDE discretionary grants, overseeing $62.3M across 7 years with on-time reporting, a successful 2019 site visit, and a FY16 Deloitte single audit with 0 findings.
-- Closed federal grant spending on time and in scope across 7 years, closing the $14,998,280 84.374B grant with less than $10 unspent, or 99.9999% utilized, avoiding clawbacks and supporting a 1-year no-cost extension.
-- Reconciled monthly grant actuals against federal and governmental accounting rules, reviewing every PO, quote, and check across 7 cost centers plus up to $100,000 in monthly payroll, restoring all 3 grants to schedule.
+<!-- - Closed federal grant spending on time and in scope across 7 years, closing the $14,998,280 grant 84.374B with less than $10 unspent, or 99.9999% utilized, avoiding clawbacks and supporting a 1-year no-cost extension. -->
+<!-- - Reconciled monthly grant actuals against federal and governmental accounting rules, reviewing every PO, quote, and check across 7 cost centers plus up to $100,000 in monthly payroll, restoring all 3 grants to schedule. -->
 - Authored 20 semiannual reports to USDE, submitting all on time with satisfactory determinations for amendments and continued funding while tracking teacher retention, bonus uptake, STAAR gains, and minority-group-isolation outcomes.
 - Negotiated scopes of work and monitored vendor/partner agreements, managing 70 contracts worth $37.4M over 7 years, protecting intellectual property, privacy, and service continuity while supporting STEM experiences for 16,500 students.
 - Audited current contracts and data-sharing agreements, reviewing 150 agreements and finding over 75% missing critical FERPA clauses and about 80% lacking security constraints, triggering a full redesign of research-approval controls.
-- Authored district legal templates for external data-access agreements, creating 2 full contract templates and 8 exhibits adopted in 100 agreements, reducing legal back-and-forth and restoring district control over deletion and privacy terms.
+<!-- - Authored district legal templates for external data-access agreements, creating 2 full contract templates and 8 exhibits adopted in 100 agreements, reducing legal back-and-forth and restoring district control over deletion and privacy terms. -->
 - Composed 8 standard National Student Data Privacy Agreement exhibits for procurement, affecting 160 contracts annually starting in 2024, reducing review time and negotiation while strengthening breach, retention, and access protections.
-- Ensured compliance across 200+ elementary schools by flagging user errors and issuing daily corrective guidance, reducing 2,100 student-schedule errors to under 0.2% within 10 days with 99.8% compliance.
-- Served on TEA's statewide Information Task Force shaping data policy and reporting schedules, helping drive changes adopted by all 1,016 districts and 20 service centers affecting 5.5M students statewide.
+<!-- - Ensured compliance across 200+ elementary schools by flagging user errors and issuing daily corrective guidance, reducing 2,100 student-schedule errors to under 0.2% within 10 days with 99.8% compliance. -->
+<!-- - Served on TEA's statewide Information Task Force shaping data policy and reporting schedules, helping drive changes adopted by all 1,016 districts and 20 service centers affecting 5.5M students statewide. -->
 
-**Financial Controls and Budget Management**
+<!-- **Financial Controls and Budget Management** -->
 
-- Led 12 cross-functional projects for the CFO and senior operations leaders over 9 months, supporting initiatives affecting $203.4M in payroll and a $30M supply operation across 110 departments.
-- Overhauled the 500+ page Finance Manual for campus-based and departmental users, supporting 400 cost centers and training clerks from 350 of them, resolving prior audit findings while reducing purchase delays and escalations.
-- Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust.
-- Allocated $200M in proposed bond investments using pre-K supply and demand analysis, planning 4,000 additional seats that would expand capacity from 12,000 to 16,000 and improve projected access for eligible 4-year-olds districtwide.
-- Managed annual budgeting and project implementation for $62.3M in federal and matching grant expenditures, maintaining on-time reporting for 7 years and supporting 0 audit findings in FY16 through recurring monitoring and budget controls.
-- Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years.
-- Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 TIF4 grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors.
+<!-- - Led 12 cross-functional projects for the CFO and senior operations leaders over 9 months, supporting initiatives affecting $203.4M in payroll and a $30M supply operation across 110 departments. -->
+<!-- - Overhauled the 500+ page Finance Manual for campus-based and departmental users, supporting 400 cost centers and training clerks from 350 of them, resolving prior audit findings while reducing purchase delays and escalations. -->
+<!-- - Improved payroll timeliness through manager accountability and monitoring, reducing late hourly payroll errors from 3%, or 9,400 annually, to 1%, or 3,100 annually, lowering correction costs and improving employee trust. -->
+<!-- - Allocated $200M in proposed bond investments using pre-K supply and demand analysis, planning 4,000 additional seats that would expand capacity from 12,000 to 16,000 and improve projected access for eligible 4-year-olds districtwide. -->
+<!-- - Managed annual budgeting and project implementation for $62.3M in federal and matching grant expenditures, maintaining on-time reporting for 7 years and supporting 0 audit findings in FY16 through recurring monitoring and budget controls. -->
+<!-- - Reconciled monthly grant actuals to EDGAR, GAAP, GASB, and FASRG rules, reviewing 7 cost centers and up to $120,000 in monthly payroll while restoring spending within 18 months and limiting forfeiture to 0.65% over 7+ years. -->
+<!-- - Kept grant spending aligned and on schedule through closeout, fully utilizing the $14,998,280 TIF4 grant with less than $10 unspent, avoiding clawbacks and securing a no-cost extension while coordinating teams and vendors. -->
 
-**Research Operations and Technical Infrastructure**
+<!-- **Research Operations and Technical Infrastructure** -->
 
-- Advised TEA takeover transition planning across HR, finance, planning, and accountability, helping reallocate 73% of the FY24 budget, or $1.6B, while revising budgets for 130 campuses and compensation for 16,000 employees.
-- Managed data for a district audit of college, career, and military readiness programs, compiling 1,024,924 annual student records across 40 high schools and 6 readiness programs over 10 years.
-- Integrated district, partner, and Census data to evaluate the Houston Food Bank collaboration, analyzing services reaching 120,000 students at 200 schools and over 1M meals across 3 programs, helping reduce duplication and improve coverage.
-- Managed a 7-figure NASA Johnson Space Center partnership, overseeing an estimated $2.4M over 3 years serving 5 schools, 100 teachers, and 28,000 annual coaching and planning hours with 0 budget variance.
+<!-- - Advised TEA takeover transition planning across HR, finance, planning, and accountability, helping reallocate 73% of the FY24 budget, or $1.6B, while revising budgets for 130 campuses and compensation for 16,000 employees. -->
+<!-- - Managed data for a district audit of college, career, and military readiness programs, compiling 1,024,924 annual student records across 40 high schools and 6 readiness programs over 10 years. -->
+<!-- - Integrated district, partner, and Census data to evaluate the Houston Food Bank collaboration, analyzing services reaching 120,000 students at 200 schools and over 1M meals across 3 programs, helping reduce duplication and improve coverage. -->
+<!-- - Managed a 7-figure NASA Johnson Space Center partnership, overseeing an estimated $2.4M over 3 years serving 5 schools, 100 teachers, and 28,000 annual coaching and planning hours with 0 budget variance. -->
 
 ## PREVIOUS EXPERIENCE 
 
 **Metro Nashville Public Schools \hfill Nashville, TN**  
 *Summer Associate for Research and Policy \hfill May 2014 - July 2014*
 
-**Promise Neighborhood at Martha O'Bryan Center \hfill Nashville, TN**  
-*Practicum Intern and Professional Volunteer \hfill January 2013 - May 2014*
+<!-- **Promise Neighborhood at Martha O'Bryan Center \hfill Nashville, TN**   -->
+<!-- *Practicum Intern and Professional Volunteer \hfill January 2013 - May 2014* -->
 
 **Vanderbilt University \hfill Nashville, TN**  
 *Graduate Research Assistant and Summer Program Evaluation Associate \hfill January 2012 - May 2014*
@@ -129,15 +133,14 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 ## INVITATIONS AND AWARDS 
 
-**Guest Speaker, Univ. of Illinois School of Information Sciences	\hfill November 2025**
+**Guest Speaker, Univ. of Illinois School of Information Sciences	\hfill November 2025**  
 *IS594 Change Catalyst*	
 
 **Guest Speaker, Texas A\&M College of Education	\hfill October 2024**  
 *EDAD 688 Education Policy Series*	
 
-**Guest Speaker, Univ. of Illinois \hfill April 2023**  
-*IS595 Competitive Intelligence & Knowledge Management*	
-
+<!-- **Guest Speaker, Univ. of Illinois \hfill April 2023** -->
+<!-- *IS595 Competitive Intelligence & Knowledge Management* -->
 **Diversity Scholarship, RStudio now Posit PBC \hfill	July 2022**  
 *posit::conf Conference and Workshop*	
 
@@ -161,7 +164,7 @@ Pane, J., Doss, C., Todd, I., & Seaman, D. (2025, June). **Efficacy of Zearn Mat
 
 **Price, L**., Lasode, M., & Powers, K. (2023, December). **Memo To Chief Financial Officer: FY25 Forecasting Models for Student Average Daily Attendance.** HISD: Internal Memo.
 
-Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). **2021-2022 Campus Demographic Report.** HISD: Research and Accountability.
+<!-- Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). **2021-2022 Campus Demographic Report.** HISD: Research and Accountability. -->
 
 **Price, L**., & Scuello, M. (2022, May). **Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.** HISD: Internal Publication.
 
@@ -175,13 +178,13 @@ Lasode, M., **Price, L.**, Abdoli, M., & Hovey, I. (2022, July). **2021-2022 Cam
 
 **Price, L.**, Cramer, E., Milanowski, A., Mader, J., & Stevens, C. (2018b). ***A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD.*** HISD: Research and Accountability. ERIC Number ED603681.
 
-**Price, L.**, Provencher, S., & Stevens, C. (2018c). ***A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD***. HISD: Research and Accountability. ERIC Number ED603678.
+<!-- **Price, L.**, Provencher, S., & Stevens, C. (2018c). ***A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD***. HISD: Research and Accountability. ERIC Number ED603678. -->
 
 <!-- **Price, L.**, & Stevens, C. (2017). ***Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness***. HISD: Research and Accountability. -->
 
-**Price, L.**, Jordan, S., & Stevens, C. (2016, January). ***Preferences and Perspectives on Teacher Compensation, 2014-2015***. HISD: Internal Publication.
+<!-- **Price, L.**, Jordan, S., & Stevens, C. (2016, January). ***Preferences and Perspectives on Teacher Compensation, 2014-2015***. HISD: Internal Publication. -->
 
-**Price, L.** (2014). ***Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement*** \[Unpublished master’s thesis\]. Peabody College of Education and Human Development, Vanderbilt University.
+<!-- **Price, L.** (2014). ***Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement*** \[Unpublished master’s thesis\]. Peabody College of Education and Human Development, Vanderbilt University. -->
 
 ## TECHNICAL SKILLS
 
