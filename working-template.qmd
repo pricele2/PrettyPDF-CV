@@ -31,6 +31,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 **Strategic Data Leadership & Student Impact**
 
 - Led cohort-based enrollment analysis and campus incentive planning, retaining 4,570 more students than projected by trendline, preserving $65.7M in state funding through 4-year mobility modeling and campus-level retention tools.
+- Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 498 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
 - Designed *k*-means clustering models for 250+ schools, segmenting campuses into 6 groups for a state grant application and helping the CAO and CFO target interventions through principal component analysis.
 - Directed HISD's pre-K analytics workstream, evaluating 165 campuses annually and informing 32 new classrooms at 26 schools, increasing from 10,500 to 12,000 seats through analyses of demand, facility, staffing, and policy constraints.
 - Built and improved ArcGIS "Seats Available Today" models and business rules, supporting 160 schools and 200 daily users while reducing refresh time from 3 days to 30 minutes, enabling faster family enrollment and transportation decisions.
@@ -39,7 +40,6 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 - Built a multivariate scoring model for pre-K expansion prioritization, ranking 160+ campuses and informing 32 classrooms at 26 schools, or 700 seats, replacing ad hoc principal requests with a districtwide strategy.
 - Reframed district policy around pre-K supply and demand, creating a shared planning vocabulary used in dashboards, policy documents, and board communications, accelerating decisions on expansion and marketing priorities across functions.
 - Modeled PK4-to-kindergarten attrition patterns, finding 34% attrition since SY18-19, with campuses ranging from under 10% to over 80% loss, informing retention incentives and digital and door-knocking outreach efforts.
-- Combined public, district, and change-of-address data to identify overlooked McKinney-Vento students, finding 500 additional eligible students, a 25% lift over the 2,000 baseline count, contributing about $1.9M in additional state funding.
 - Designed continuous-improvement recommendations for bonus-driven human-capital programs, supporting 86% annual retention at 24 schools versus 68% district-wide across 250 schools by moving eligibility notifications before Spring Break.
 - Supported Houston Education Research Consortium projects with cleaned datasets and technical expertise, enabling work across 4 research centers and informing 30 publications using 8 years of school-choice data and policy review.
 
@@ -55,7 +55,7 @@ Data and policy leader with 10+ years of experience in analytics, causal inferen
 
 **Data Analysis, Modeling, and Dissemination**
 
-- Queried, cleaned, and analyzed 70+ complex datasets covering 275 schools over 9 years for program evaluations, including 2.1M student records, 117,750 teacher records, and 240,000 choice applications, informing program decisions.
+- Queried, cleaned, and analyzed 70+ complex datasets covering 275 schools for 9 years for grant program evaluations, over 2.1M student records, 117,750 teacher records, and 240,000 choice applications, informing program decisions.
 - Designed and administered a compensation survey, collecting 2,482 responses from 10,790 teachers and weighting results across 195 subpopulations, surfacing that 54% said no dollar amount could offset an unsupportive principal. 
 - Built student-teacher linkage and rostering for Panorama surveys, linking 122,000 students and 7,800 teachers across 250 campuses at 99.8% accuracy while replacing manual rostering and saving 1,200 hours.
 - Built reproducible ETL pipelines for staffing decisions across 200 campuses, supporting twice-daily refreshes that informed 232 teacher reassignments and 210 positions eliminated, reducing overstaffing costs and improving ratio compliance. 

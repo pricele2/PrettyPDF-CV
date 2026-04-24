@@ -1,0 +1,36 @@
+---
+title: "Lauren Price, M.P.P., R.T.S.B.A."
+subtitle: "Houston, TX | 772-485-2635 | lauren.3.price@gmail.com | [LinkedIn](https://www.linkedin.com/in/lauren-price-data/) | [GitHub](https://github.com/pricele2) | [Calendly](https://calendly.com/lauren-3-price/quick-chat)"
+format: PrettyPDF-pdf
+date: today
+date-format: long
+---
+
+\today
+
+Dr. Cathy Malerba    \newline
+Executive Director, Research and Evaluation  \newline
+Gibson Consulting Group, Inc.
+
+Dear Dr. Malerba:
+
+I am pleased to apply for the position of Quantitative Research Scientist. This specific role would let me contribute my K-12 domain knowledge, technical skills, cutting-edge training, and leadership to a role solving complex problems in education research and analysis. 
+
+<!-- I was particularly excited to see the recent headline in EdWeek about the Great Minds acquisition of Odell for secondary ELA — bringing the *whole texts* approach to a broader group of students will provide rich opportunities for studying their learning outcomes.  -->
+
+The strongest candidate for this position will bring their unique combination of four things: experience, skills, passions/values, and personality. My professional experience and technical skills are laid out in more detail in my attached full CV. 
+
+Briefly, after six years post-BA working in Colorado's nonprofit sector, I went back to school full time to earn my Master’s of Public Policy in K-12 Education and Leadership. I excelled in the quant-heavy program, regularly choosing doctoral-level courses to strengthen my methodology chops. Since graduating, I have spent over a decade in K-12 public education analytics, research, data governance, and regulatory compliance for data privacy. I proudly served the students, teachers, and families of my community by doing thoughtful, clever work in the central office. With Houston ISD, I wrote reports, designed and implemented evaluation frameworks, and managed complex longitudinal datasets. I frequently acted as a thought partner to senior leaders as they considered the District’s most high-stakes decisions.
+
+Since technology evolves quickly, I have also proactively stayed current with new and emerging practices. In 2025, I participated in a targeted professional training program to advance computational and analytic capacity in K-12 education, funded by the Institute of Education Sciences at the National Center for Educational Statistics. I was one of 20 selected from over 200 applicants to the Innovation Science for Education Analytics (ISEA) training program, a sixteen-week curriculum emphasizing state-of-the-art machine learning and AI strategies informed by education domain knowledge, computational workflows, and immediate applications for the K-12 environment. This deep training and its culminating “hackweek” experience confirmed for me that “human in the loop” data strategies have never been more important for K12 schools and their edtech providers.
+
+As for the *people* side of this technical role, I am an experienced leader with six years of managing, coaching, and mentoring technical analysts and stakeholder-facing program staff. As a supervisor, I set high expectations and clear parameters, establish collaborative practices and team norms, and then both oversee and coach up where needed so our colleagues on other teams experience consistently excellent results. I deliberately foster a high-performing, mutually accountable team culture — aiming to be the kind of leader that educational theorist Dr. Gloria Ladson-Billings might call a *warm demander*. But I also kindle a sense of together-ness, continuous improvement through peer learning, and humor within my teams.
+
+For example, during a high-stakes team project I proudly accepted a meme-based compliment from a creative colleague highlighting my ability to make machine-readable, reproducible, tidy data out of our stakeholders’ chaotic original files: *Only Lauren can take this messy pile of PPT and XLS files, and produce a Princess-Diaries-worthy result.* We all laughed at the image, I taught them how to fork my R scripts and replicate the steps, and we met our deadlines even under the time constraints.
+
+Thank you for your consideration, and I hope to hear from your team soon.
+
+\vspace{12pt} 
+Regards, 
+
+Lauren Price
