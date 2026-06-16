@@ -8,3 +8,5 @@ template.tex
 *.pdf
 *.html
 .positai
+
+00-References.qmd
